@@ -40,7 +40,7 @@
 //                "API documentation for Quick Park Assist application",
 //                "1.0.0",
 //                "Terms of Service",
-//                new Contact("Sandesh Patil", "www.dev-team.com",
+//                new Contact("Aditya Patil", "www.dev-team.com",
 //                        " "),
 //                "Apache License Version 2.0",
 //                "https://www.apache.org/licesen.html", new ArrayList<>()
